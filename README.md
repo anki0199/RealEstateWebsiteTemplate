@@ -1,2 +1,2 @@
-# Earth-View
+
 # RealEstateWebsiteTemplate
